@@ -10,6 +10,11 @@ arm, boy, bread, chicken, child, computer, ear, house, leg, sandwich, television
 #### Zero-Shot Classes:
 car, food, hand, man, neck
 
-### Dependencies
-
 ### Instructions
+
+Follow the below steps to run the code:
+
+Install all the necessary packages
+Open the jupyter notebook located at
+https://github.com/kiran74-ds/zsl/blob/main/Zero_Shot_Learning.ipynb
+Follow the steps in the note book
