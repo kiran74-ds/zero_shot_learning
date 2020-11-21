@@ -7,6 +7,7 @@ This is what zero-shot learning aims to tackle.
 <img src="https://www.programmersought.com/images/779/99f80acb97763b3b810b016933de6d73.png" width=600, height=400>
 
 Data has been collected from this website https://visualgenome.org/ 20 classes in total where there are 15 classes selected for training and 5 classes selected as Zero-Shot classes
+
 #### Train Classes:
 arm, boy, bread, chicken, child, computer, ear, house, leg, sandwich, television, truck, vehicle, watch, woman
 #### Zero-Shot Classes:
