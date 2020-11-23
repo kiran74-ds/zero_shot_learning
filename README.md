@@ -43,5 +43,5 @@ Follow the below steps to run the code:
 ## Eszl
 + Install all the necessary packages
 + Open the jupyter notebook located at 
-https://github.com/kiran74-ds/zsl/blob/main/
+https://github.com/kiran74-ds/zsl/blob/main/Embarssingly_Simple_ZSL.ipynb
 + Follow the steps in the note book
