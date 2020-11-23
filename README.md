@@ -29,7 +29,7 @@ Different datasets with different length of attributes for each dataset
 + APY: Attributes 64,   Classes 32
 
 
-### Instructions
+## Instructions
 
 Follow the below steps to run the code:
 ### Zsl with label embedding
