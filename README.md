@@ -21,11 +21,11 @@ car, food, hand, man, neck
 Dataset has been collected from this website https://www.mpi-inf.mpg.de/departments/computer-vision-and-machine-learning/research/zero-shot-learning/latent-embeddings-for-zero-shot-classification.
 
 Different datasets with different length of attributes for each dataset 
-SUN: Attributes 102,  Classes 717
-CUB: Attributes 312,  Classes 200
-AWA1: Attributes 85,  Classes 50 
-AWA2: Attributes 85,  Classes 50
-APY: Attributes 64,   Classes 32
++ SUN: Attributes 102,  Classes 717
++ CUB: Attributes 312,  Classes 200
++ AWA1: Attributes 85,  Classes 50 
++ AWA2: Attributes 85,  Classes 50
++ APY: Attributes 64,   Classes 32
 
 
 ### Instructions
