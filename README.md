@@ -14,7 +14,8 @@ arm, boy, bread, chicken, child, computer, ear, house, leg, sandwich, television
 #### Zero-Shot Classes:
 car, food, hand, man, neck
 
-### Method2 : Embarssingly Simple Zero Shot learning(EZsl)
+### Method2 : Embarrassingly Simple approach to Zero Shot learning(EZsl)
+
 
 <img src="https://iq.opengenus.org/content/images/2020/01/Screenshot-from-2020-01-27-00-56-44.png">
 
